@@ -2,8 +2,7 @@
 
 
 
-### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=tanu1909&show_icons=true&theme=radical)
+
 
 ### 💻 Languages & Tools
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanu1909&layout=compact&theme=radical)
@@ -14,4 +13,4 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-[Connect with me on LinkedIn](https://www.linkedin.com/in/tanu-choudhary-6a0974331)
+[![Connect with me on LinkedIn](https://img.shields.io/badge/Connect_with_me_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanu-choudhary-6a0974331)
