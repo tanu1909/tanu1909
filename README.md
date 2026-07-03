@@ -1,9 +1,6 @@
 # Hi there, I'm Tanu Choudhary! 👋
 
 <div align="center">
-  <!-- Neon Glowing Header -->
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=darkviolet&height=200&section=header&text=Tanu%20Choudhary&fontSize=70&animation=twinkling&theme=dark" width="100%" />
-
   <!-- Glassmorphism Badge Grid -->
   <p align="center">
     <img src="https://img.shields.io/badge/MNNIT%20Allahabad-B.Tech%20%2728-blueviolet?style=for-the-badge&logo=education" />
@@ -17,7 +14,6 @@
 ## 🌌 About Me
 I am a **B.Tech student in Engineering and Computational Mechanics** at **Motilal Nehru National Institute of Technology Allahabad** (2024-2028). 
 
-* 🎓 **Academic Status**: Current CPI: 7.73 @ MNNIT Allahabad[cite: 1]
 * 💻 **Core Focus**: Data Structures, Advanced Algorithms, and Full-Stack Engineering
 * ✉️ **Let's Connect**: tanuchoudhary2403@gmail.com
 
@@ -37,10 +33,10 @@ I am a **B.Tech student in Engineering and Computational Mechanics** at **Motila
 
 | Category | Technologies & Topics |
 | :--- | :--- |
-| **Languages** | Java, JavaScript (ES6+), SQL[cite: 1] |
-| **Web Tech** | HTML5, CSS3, React.js, Node.js, Express.js, REST APIs, Socket.IO[cite: 1] |
-| **Databases & Sec** | MongoDB, MySQL, Firebase, JWT, OAuth 2.0, RBAC[cite: 1] |
-| **Core Computer Science** | Data Structures and Algorithms, Object-Oriented Programming (OOP), Database Management Systems (DBMS), Operating Systems, Computer Networks[cite: 1] |
+| **Languages** | Java, JavaScript (ES6+), SQL|
+| **Web Tech** | HTML5, CSS3, React.js, Node.js, Express.js, REST APIs, Socket.IO |
+| **Databases & Sec** | MongoDB, MySQL, Firebase, JWT, OAuth 2.0, RBAC|
+| **Core Computer Science** | Data Structures and Algorithms, Object-Oriented Programming (OOP), Database Management Systems (DBMS), Operating Systems, Computer Networks |
 
 ---
 
@@ -71,7 +67,4 @@ I am a **B.Tech student in Engineering and Computational Mechanics** at **Motila
 
 
 
-## 🌐Profile Visits
-<div align="center">
-  <img src="https://profile-counter.glitch.me/tanuchoudhary/count.svg" alt="Visitor Counter" />
-</div>
+
