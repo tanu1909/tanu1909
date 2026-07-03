@@ -1,48 +1,88 @@
-### Hi there, I'm Tanu! 👋
+# Hi there, I'm Tanu Choudhary! 👋
+
+<div align="center">
+  <!-- Neon Glowing Header -->
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=darkviolet&height=200&section=header&text=Tanu%20Choudhary&fontSize=70&animation=twinkling&theme=dark" width="100%" />
+
+  <!-- Glassmorphism Badge Grid -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/MNNIT%20Allahabad-B.Tech%20%2728-blueviolet?style=for-the-badge&logo=education" />
+    <img src="https://img.shields.io/badge/LeetCode-1750%2B-orange?style=for-the-badge&logo=leetcode" />
+    <img src="https://img.shields.io/badge/CodeChef-2%E2%98%85-brown?style=for-the-badge&logo=codechef" />
+  </p>
+</div>
 
 ---
 
-### 💻 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## 🌌 About Me
+I am a **B.Tech student in Engineering and Computational Mechanics** at **Motilal Nehru National Institute of Technology Allahabad** (2024-2028). 
+
+* 🎓 **Academic Status**: Current CPI: 7.73 @ MNNIT Allahabad[cite: 1]
+* 💻 **Core Focus**: Data Structures, Advanced Algorithms, and Full-Stack Engineering
+* ✉️ **Let's Connect**: tanuchoudhary2403@gmail.com
+
+<p align="left">
+  <a href="https://github.com/tanuchoudhary" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/tanuchoudhary" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 ---
 
-### ⚙️ Backend & Database
-![Node.JS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Bcrypt](https://img.shields.io/badge/Bcrypt-003B57?style=for-the-badge)
-![OAuth](https://img.shields.io/badge/OAuth-000000?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+## 🎮Contribution Calendar
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanuchoudhary/tanuchoudhary/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanuchoudhary/tanuchoudhary/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Animated Snake/Pacman" src="https://raw.githubusercontent.com/tanuchoudhary/tanuchoudhary/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 
 ---
 
-### 🛠️ Dev Tools & Deployment
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+## 🛠️ Technical Skills & Floating Icons
+<p align="left">
+  <!-- Interactive Skill Progress / Floating Tech Badges -->
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,express,mongodb,mysql,firebase,git,github,vscode,postman" />
+</p>
+
+| Category | Technologies & Topics |
+| :--- | :--- |
+| **Languages** | Java, JavaScript (ES6+), SQL[cite: 1] |
+| **Web Tech** | HTML5, CSS3, React.js, Node.js, Express.js, REST APIs, Socket.IO[cite: 1] |
+| **Databases & Sec** | MongoDB, MySQL, Firebase, JWT, OAuth 2.0, RBAC[cite: 1] |
+| **Core Computer Science** | Data Structures and Algorithms, Object-Oriented Programming (OOP), Database Management Systems (DBMS), Operating Systems, Computer Networks[cite: 1] |
+
+---
+
+## 🚀 Personal Projects
+
+### 👁️ Civic Lens | [Source Code](https://github.com/tanuchoudhary)
+> **AI-Powered Community Issue Reporting Platform** (Dec 2025)
+* Full-stack platform combining React.js, Node.js, Firebase, and Google Maps API
+* Integrated **Gemini Pro Vision API** for automated image classification and severity screening
+* Geospatial reporting with real-time mapping to track public issues across locations
+
+### 🔄 Skill Swap | [Source Code](https://github.com/tanuchoudhary)
+> **Full-Stack Peer-to-Peer Marketplace & Collaboration Arena** (May 2026 - Present)
+* Built using React (Vite), Node.js, Express.js, and MongoDB data models
+* Engineered real-time chat functionality and **WebRTC signaling** for live video collaboration rooms
+* Secured API surfaces using server-side validation and JWT token-based auth structures
 
 ---
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanu1909&theme=radical)](https://git.io/streak-stats)
+
+### 🏆 Milestone Metrics
+* **Problem Solving**: Solved **850+** Data Structures and Algorithms problems across LeetCode & GeeksforGeeks.
+* **LeetCode**: Achieved **1750+ LeetCode Contest Rating** .
+* **CodeChef**: Earned a **2★ Rating** on CodeChef.
 
 ---
 
-[![Connect with me on LinkedIn](https://img.shields.io/badge/Connect_with_me_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanu-choudhary-6a0974331)
+
+
+## 🌐Profile Visits
+<div align="center">
+  <img src="https://profile-counter.glitch.me/tanuchoudhary/count.svg" alt="Visitor Counter" />
+</div>
