@@ -26,17 +26,6 @@ I am a **B.Tech student in Engineering and Computational Mechanics** at **Motila
   <a href="https://linkedin.com/in/tanuchoudhary" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
----
-
-## 🎮Contribution Calendar
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanuchoudhary/tanuchoudhary/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanuchoudhary/tanuchoudhary/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Animated Snake/Pacman" src="https://raw.githubusercontent.com/tanuchoudhary/tanuchoudhary/output/github-contribution-grid-snake.svg">
-</picture>
-
-
 
 ---
 
@@ -55,7 +44,7 @@ I am a **B.Tech student in Engineering and Computational Mechanics** at **Motila
 
 ---
 
-## 🚀 Personal Projects
+##  Personal Projects
 
 ### 👁️ Civic Lens | [Source Code](https://github.com/tanuchoudhary)
 > **AI-Powered Community Issue Reporting Platform** (Dec 2025)
