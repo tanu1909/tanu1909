@@ -75,14 +75,6 @@ I'm a **B.Tech student in Engineering and Computational Mechanics** at **Motilal
 | **LeetCode Contest Rating** | 1750+ |
 | **CodeChef Rating** | 2★ |
 
-<br/>
-
-##  GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanuchoudhary&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanuchoudhary&theme=tokyonight&hide_border=true" height="165" />
-</p>
 
 <br/>
 
