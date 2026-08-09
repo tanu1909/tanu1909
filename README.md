@@ -19,7 +19,7 @@ I am a **B.Tech student in Engineering and Computational Mechanics** at **Motila
 
 <p align="left">
   <a href="https://github.com/tanuchoudhary" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/tanuchoudhary" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="linkedin.com/in/tanu-choudhary-6a0974331" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 
@@ -54,6 +54,8 @@ I am a **B.Tech student in Engineering and Computational Mechanics** at **Motila
 * Engineered real-time chat functionality and **WebRTC signaling** for live video collaboration rooms
 * Secured API surfaces using server-side validation and JWT token-based auth structures
 
+### 🎓Clubviews
+Developed a full-stack web application using React 19, Node.js/Express, and MongoDB to streamline college club discovery and event management. Implemented role-based authentication with JWT and cookie sessions, supporting distinct flows for students, club admins, and super-admins. Built a dynamic event registration system featuring custom form fields, seat management, waitlisting, real-time updates via Socket.IO, and QR-code-based check-in using html5-qrcode. Designed RESTful APIs for club profiles, event lifecycle management, sponsor tracking, and winner announcements, with a responsive frontend powered by Vite, Tailwind CSS, and Framer Motion animations.
 ---
 
 
