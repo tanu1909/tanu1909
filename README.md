@@ -55,7 +55,7 @@ I am a **B.Tech student in Engineering and Computational Mechanics** at **Motila
 * Secured API surfaces using server-side validation and JWT token-based auth structures
 
 ### 🎓Clubviews
-Developed a full-stack web application using React 19, Node.js/Express, and MongoDB to streamline college club discovery and event management. Implemented role-based authentication with JWT and cookie sessions, supporting distinct flows for students, club admins, and super-admins. Built a dynamic event registration system featuring custom form fields, seat management, waitlisting, real-time updates via Socket.IO, and QR-code-based check-in using html5-qrcode. Designed RESTful APIs for club profiles, event lifecycle management, sponsor tracking, and winner announcements, with a responsive frontend powered by Vite, Tailwind CSS, and Framer Motion animations.
+> Developed a full-stack web application using React 19, Node.js/Express, and MongoDB to streamline college club discovery and event management. Implemented role-based authentication with JWT and cookie sessions, supporting distinct flows for students, club admins, and super-admins. Built a dynamic event registration system featuring custom form fields, seat management, waitlisting, real-time updates via Socket.IO, and QR-code-based check-in using html5-qrcode. Designed RESTful APIs for club profiles, event lifecycle management, sponsor tracking, and winner announcements, with a responsive frontend powered by Vite, Tailwind CSS, and Framer Motion animations.
 ---
 
 
