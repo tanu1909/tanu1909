@@ -19,9 +19,7 @@
 
 I'm a **B.Tech student in Engineering and Computational Mechanics** at **Motilal Nehru National Institute of Technology, Allahabad** (2024–2028), passionate about building full-stack products and solving algorithmic problems.
 
--  Currently building **Skill Swap** — a peer-to-peer marketplace with live video collaboration
--  Core focus: **Data Structures & Algorithms**, **System Design fundamentals**, and **Full-Stack Engineering**
--  Currently exploring: **TypeScript**, **WebRTC**, and **System Design**
+-  Core focus: **Data Structures & Algorithms**, **System Design**, and **Full-Stack Engineering**
 -  Reach me at **tanuchoudhary2403@gmail.com**
 
 <br/>
