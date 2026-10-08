@@ -70,7 +70,7 @@ I'm a **B.Tech student in Engineering and Computational Mechanics** at **Motilal
 | Metric | Result |
 | :--- | :--- |
 | **Problem Solving** | 900+ DSA problems solved across LeetCode & GeeksforGeeks |
-| **LeetCode Contest Rating** | 1750+ |
+| **LeetCode Contest Rating** | 1780+ |
 | **CodeChef Rating** | 2★ |
 
 
